@@ -11,12 +11,12 @@ namespace ntschool;
 
 interface NotifierAdapterInterface
 {
-public function debug();
-public function info();
-public function notice();
-public function warning();
-public function error();
-public function critical();
-public function alert();
-public function emergency();
+public function debug($message);
+public function info($message);
+public function notice($message);
+public function warning($message);
+public function error($message);
+public function critical($message);
+public function alert($message);
+public function emergency($message);
 }
