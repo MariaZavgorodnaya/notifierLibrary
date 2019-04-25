@@ -6,7 +6,7 @@
  * Time: 12:52
  */
 
-namespace ntschool;
+namespace school;
 
 
 interface NotifierAdapterInterface
