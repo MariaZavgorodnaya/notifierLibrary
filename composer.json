@@ -1,0 +1,19 @@
+{
+    "name": "mashaz/notifier",
+    "description": "Notifier",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ntschool\\":"src"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "authors": [
+        {
+            "name": "MashaZ",
+            "email": "oliverum-oliverum@yandex.ru"
+        }
+    ]
+}
