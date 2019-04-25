@@ -6,11 +6,12 @@
  * Time: 12:52
  */
 
-namespace school;
+namespace ntschool;
 
 
 interface NotifierAdapterInterface
 {
+
 public function debug($message);
 public function info($message);
 public function notice($message);

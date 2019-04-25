@@ -6,7 +6,7 @@
  * Time: 13:33
  */
 
-namespace school;
+namespace ntschool;
 
 
 use Monolog\Logger;
